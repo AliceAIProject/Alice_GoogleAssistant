@@ -1,0 +1,14 @@
+{
+  "name": "alice",
+  "description": "Helping you complete your routine tasks",
+  "version": "0.0.1",
+  "author": "Akshay",
+  "engines": {
+    "node": "~4.2"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.0.0",
+    "firebase-admin": "^4.2.1",
+    "firebase-functions": "^0.5.7"
+  }
+}
